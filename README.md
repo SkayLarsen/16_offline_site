@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+Оффлайн-вариант шаблона сайта Jumbotron. Все зависимости хранятся локально вместе с html-страницей.
 
 # Project Goals
 
